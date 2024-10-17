@@ -1,0 +1,5 @@
+;;
+;; Команда h) Help
+;;
+
+helpString:       db 0xA, 0xD, 's) Information about system', 0xA, 0xD, 'r) Reboot PC', 0xA, 0xD, 'g) Snake Game', 0xA, 0xD, 0
